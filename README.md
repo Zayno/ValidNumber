@@ -1,5 +1,9 @@
 # ValidNumber
 Leet Code #65. Valid Number
+
+![screenshot](leet.PNG?raw=true "Leet")
+
+
 A valid number can be split up into these components (in order):
 
 A decimal number or an integer.
